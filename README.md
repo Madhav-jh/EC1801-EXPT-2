@@ -74,7 +74,6 @@ Y_AND = A.B
 Y_OR = A+B
 Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
-Output
 # OUTPUT
 <img width="1917" height="585" alt="deeee" src="https://github.com/user-attachments/assets/cca6144f-cf33-4ef7-8a16-55fcdf6f1fd2" />
 
