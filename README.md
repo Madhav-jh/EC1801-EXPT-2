@@ -26,10 +26,6 @@ logic_gates_tb.v	All input combinations and VCD generation
 # **Test Bench Program**
 <img width="1213" height="868" alt="Screenshot 2026-11-20 114338" src="https://github.com/user-attachments/assets/617e180a-3706-44cf-b538-9dd449f48407" />
 
-
-
-
- 
 <img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" />
 
 # Simulation Procedure
@@ -80,7 +76,6 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
-
-<img width="1917" height="990" alt="Screenshot 2026-11-20 114817" src="https://github.com/user-attachments/assets/4c922cda-5d2c-4bb2-afeb-3213f3ed0253" />
+<img width="1917" height="990" alt="Screenshot 2026-11-20 114817" src="https://github.com/user-attachments/assets/3e93b157-b1fc-4b35-80ce-8bd23def943e" />
 
  
